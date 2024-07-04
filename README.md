@@ -2,16 +2,16 @@
 A user manual for the setup of re_computer J4012 industrial
 # Flashing into the NVIDIA-kit (Re_computer Industrial J4012)
 Pre-requisites:
-- Ubuntu 20.04 installed host machine
-- Step 1:
+- Ubuntu 20.04 installed host machine <br/>
+Step 1:
 Downloading NVIDIA SDK Manager
-- Step 2: 
+Step 2: 
 Installing NVIDIA SDK Manager
-- Step 3:
+Step 3:
 Open NVIDIA SDK Manager using terminal 
-- Step 4:
+Step 4:
 Create NVIDIA account or login if existing
-- Step 5:
+Step 5:
 1. Preparing the Kit to go into recovery mode
 - First ensure the kit is not connected to power supply
 - Connecting the Host machine with the kit using type C cable
