@@ -4,7 +4,8 @@ A user manual for the setup of re_computer J4012 industrial
 Pre-requisites:
 - Ubuntu 20.04 installed host machine <br/>
 ## Step 1:
-Downloading NVIDIA SDK Manager
+Downloading NVIDIA SDK Manager <br/>
+from "https://developer.download.nvidia.com/sdkmanager/redirects/sdkmanager-deb.html"
 ## Step 2: 
 Installing NVIDIA SDK Manager
 ## Step 3:
