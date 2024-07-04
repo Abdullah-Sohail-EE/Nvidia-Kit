@@ -1,6 +1,6 @@
 # Nvidia-Kit
 A user manual for the setup of re_computer J4012 industrial 
-###Flashing into the NVIDIA-kit (Re_computer Industrial J4012)
+#Flashing into the NVIDIA-kit (Re_computer Industrial J4012)
 Pre-requisites:
 - Ubuntu 20.04 installed host machine
 Step 1:
